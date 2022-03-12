@@ -2,8 +2,9 @@
 
 ### Description ###
 
-A Product backend service for allowing functionality such as adding product categories  
-,adding products,adding product items and unit of measure.
-
+This is a replica of the Product Service used for  product management in Twiga DMS.    
+The system supports functionality such as :  
++ Adding Product Categories ,Products,Product Items and UOM
++ Retrival of Product Categories ,Products,Product Items and UOM etc.
 
 
